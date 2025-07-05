@@ -1,7 +1,7 @@
 import React from "react";
 import { AiOutlineShoppingCart, AiOutlineArrowRight } from "react-icons/ai";
 import { Link } from "react-router-dom";
-
+// Banner js
 const Banner = () => {
   return (
     <div className="relative min-h-screen overflow-hidden">
